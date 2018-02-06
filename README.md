@@ -1,4 +1,4 @@
-# MLS Data Science Bowl 2018 ([link to Kaggle competition](https://www.kaggle.com/c/data-science-bowl-2018)
+# MLS Data Science Bowl 2018 ([Kaggle competition link](https://www.kaggle.com/c/data-science-bowl-2018))
 
 ## tfarrell branch 
 
