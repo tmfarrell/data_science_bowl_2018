@@ -5,11 +5,10 @@ Configurations and data loading code for Data Science Bowl 2018 dataset.
 https://www.kaggle.com/c/data-science-bowl-2018
 
 -----------------------------------------------------------
-adapted from Mask-RCNN/coco.py
+adapted from Mask-RCNN/coco.py (by Waleed Abdulla)
 
 Copyright (c) 2017 Matterport, Inc.
 Licensed under the MIT License (see LICENSE for details)
-Written by Waleed Abdulla
 
 ------------------------------------------------------------
 """
